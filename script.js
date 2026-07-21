@@ -1,0 +1,1 @@
+console.log("Portfolio Jeremi Alpiin Limbong berhasil dibuka!");
